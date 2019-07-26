@@ -1,2 +1,2 @@
 # fsms-screenshots
-Screenshots for full-screen-morphing-search plugin
+Screenshots for Full Screen Morphing Search WordPress plugin
